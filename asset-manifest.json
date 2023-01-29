@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/replay-panel/static/css/main.9df52473.css",
+    "main.js": "/replay-panel/static/js/main.0820906a.js",
+    "static/js/787.910eeb3a.chunk.js": "/replay-panel/static/js/787.910eeb3a.chunk.js",
+    "index.html": "/replay-panel/index.html",
+    "main.9df52473.css.map": "/replay-panel/static/css/main.9df52473.css.map",
+    "main.0820906a.js.map": "/replay-panel/static/js/main.0820906a.js.map",
+    "787.910eeb3a.chunk.js.map": "/replay-panel/static/js/787.910eeb3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9df52473.css",
+    "static/js/main.0820906a.js"
+  ]
+}
